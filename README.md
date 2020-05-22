@@ -1,6 +1,6 @@
 # vanillajs
 Vanilla JavaScript Repository for Studying 
 
-- [ ] Async
-- [ ] Promises 
+- [X] Async
+- [X] Promises 
 - [ ] HOF 
