@@ -8,3 +8,4 @@ Vanilla JavaScript Repository for Studying
 - [ ] Util libraries
 - [ ] Linked Lists
 - [ ] Queues
+- [ ] Recursivity
